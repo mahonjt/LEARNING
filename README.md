@@ -1,4 +1,4 @@
-# LEARNING
+# AI LEARNING
 A learning repository so I can teach my son and myself the latest AI tools
 
 To start the AugtoGPT AI on my desktop PC:
